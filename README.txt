@@ -1,0 +1,1 @@
+Wyszukiwarka s³u¿y do jednoczesnego wyszukiwania ofert na polskich serwisach og³oszeniowych: Allegro, Olx oraz Gumtree.
